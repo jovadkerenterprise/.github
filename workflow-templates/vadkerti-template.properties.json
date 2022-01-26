@@ -1,0 +1,13 @@
+{
+    "name": "Jovadker Organization Workflow",
+    "description": "Jovadker Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Dotnet"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
